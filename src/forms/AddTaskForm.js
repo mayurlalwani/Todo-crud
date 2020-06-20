@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import {Input, Button, Form} from '../Style'
+import {Input, Button} from '../Style'
 
 const AddTaskForm = props => {
 	const initialFormState = { id: null, name: ''}
